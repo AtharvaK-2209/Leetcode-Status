@@ -1,17 +1,28 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int n = nums.size();
-        int maxProduct = INT_MIN;
-        for(int i = 0; i < n; i++){
-            int currentProduct = 1;
-            for(int j = i ; j < n; j++){
-                currentProduct *= nums[j];
+        // Optimal Approach : where we keep track of previous maximum and minimun bcz neg * neg = postive
 
-                maxProduct = max(maxProduct, currentProduct);
+        int currentMax = nums[0];
+        int currentMin = nums[0];
+        int answer = nums[0];
 
-            }
+        for(int i = 1 ; i < nums.size() ; i++){
+            int temp = currentMax;
+            currentMax = max({
+                nums[i], 
+                currentMax * nums[i], 
+                currentMin * nums[i]
+            });
+
+            currentMin = min({
+                nums[i], 
+                temp * nums[i], 
+                currentMin * nums[i]
+            });
+            
+            answer = max(answer,currentMax);
         }
-        return maxProduct;
+        return answer;
     }
 };
