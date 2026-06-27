@@ -12,8 +12,8 @@ public:
 
         // Optimal : Using Frequency array since only English letters are present in strings. Time : O(n). If the inputs contain Unicode or arbitrary Characters we will think for unordered_map<char, int>
 
-        int freq[26] = {0};
 
+        vector <int> freq(26,0);
         for(char c : s){
             freq[c-'a']++;
         }
