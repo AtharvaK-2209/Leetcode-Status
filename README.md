@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
 ## Math
 |  |
