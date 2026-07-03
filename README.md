@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0152-maximum-product-subarray) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -44,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
 ## Math
