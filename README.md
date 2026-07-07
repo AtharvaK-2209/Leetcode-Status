@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0238-product-of-array-except-self) |
+| [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
