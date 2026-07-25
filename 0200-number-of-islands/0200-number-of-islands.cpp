@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void dfs (vector<vector<char>> &grid, int row, int col){
+    void bfs (vector<vector<char>> &grid, int row, int col){
         int m = grid.size();
         int n = grid[0].size();
 
@@ -13,10 +13,10 @@ public:
 
         //checking neighbors 
         grid[row][col] = '0';
-        dfs( grid, row - 1, col);
-        dfs( grid, row + 1, col);
-        dfs( grid, row, col - 1);
-        dfs( grid, row, col + 1);
+        bfs( grid, row - 1, col);
+        bfs( grid, row + 1, col);
+        bfs( grid, row, col - 1);
+        bfs( grid, row, col + 1);
 
     }
     int numIslands(vector<vector<char>>& grid) {
@@ -27,7 +27,7 @@ public:
             for(int j = 0 ; j < col ; j++ ){
                 if(grid[i][j] == '1'){
                     count++;
-                    dfs(grid, i, j);
+                    bfs(grid, i, j);
                 }
             }
         }
