@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0994-rotting-oranges) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0994-rotting-oranges) |
 ## Memoization
 |  |
 | ------- |
