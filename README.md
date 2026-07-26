@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
