@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
