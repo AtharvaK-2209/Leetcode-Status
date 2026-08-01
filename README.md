@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0994-rotting-oranges) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
@@ -135,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
