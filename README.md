@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -143,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
