@@ -4,15 +4,9 @@ public:
         vector<int> ans;
         sort(nums.begin(), nums.end());
         int mn = nums[0], mx = nums[nums.size()-1];
+        unordered_set<int> st(nums.begin(), nums.end());
         for(int num = mn; num <= mx; num++) {
-            bool found = false;
-            for(int x : nums) {
-                if(x == num) {
-                    found = true;
-                    break;
-                }
-            }
-            if(!found)
+            if(!st.count(num))
                 ans.push_back(num);
         }
 
