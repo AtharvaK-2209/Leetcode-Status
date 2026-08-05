@@ -116,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0994-rotting-oranges) |
+| [3310-remove-methods-from-project](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
