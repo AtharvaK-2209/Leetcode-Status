@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0509-fibonacci-number) |
