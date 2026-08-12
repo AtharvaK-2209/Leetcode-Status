@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3731-find-missing-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0268-missing-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3731-find-missing-elements) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
