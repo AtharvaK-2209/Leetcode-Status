@@ -1,14 +1,31 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        vector<int> temp(nums.size(), 0);
-        int k = 0;
-        for(int i = 0 ; i < nums.size() ; i++ ){
-            if(nums[i] != 0 ){
-                temp[k] = nums[i];
-                k++;
+        // Brute Force
+        // vector<int> temp(nums.size(), 0);
+        // int k = 0;
+        // for(int i = 0 ; i < nums.size() ; i++ ){
+        //     if(nums[i] != 0 ){
+        //         temp[k] = nums[i];
+        //         k++;
+        //     }
+        // }
+        // nums = temp;
+
+        // Optimal - 2 pointer approach
+        int j = -1;
+        for(int i = 0 ; i < nums.size(); i++){
+            if(nums[i] == 0){
+                j = i ; 
+                break;
             }
         }
-        nums = temp;
+        if(j == -1) return;
+        for(int i = j+ 1; i < nums.size(); i++){
+            if(nums[i] != 0){
+                swap(nums[i],nums[j]);
+                j++;
+            }
+        }
     }
 };
