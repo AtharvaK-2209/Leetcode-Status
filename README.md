@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
