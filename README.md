@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1872-stone-game-viii](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
