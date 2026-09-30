@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/1386-cinema-seat-allocation) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -312,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
