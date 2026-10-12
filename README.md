@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
