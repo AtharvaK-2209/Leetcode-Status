@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0876-middle-of-the-linked-list) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0268-missing-number) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
