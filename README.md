@@ -354,9 +354,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
