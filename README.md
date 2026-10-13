@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
 | [3310-remove-methods-from-project](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3310-remove-methods-from-project) |
@@ -342,4 +343,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
