@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0733-flood-fill) |
 | [3310-remove-methods-from-project](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3310-remove-methods-from-project) |
@@ -349,11 +350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
