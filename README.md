@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AtharvaK-2209/Leetcode-Status/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
